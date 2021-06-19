@@ -25,7 +25,7 @@
   }
   .nav-menu {
     margin-top: 40px;
-    display: none;
+    /* display: none; */
     float: none;
     width: 100%;
   }
@@ -69,7 +69,7 @@
     display: inline-block;
   }
   /* journal */
-  #journal .journal-block .journal-info {
+  #certification .accordion-block .accordion-info {
     margin-bottom: 30px;
   }
   /* Contact */
@@ -96,7 +96,7 @@
   }
   .nav-menu {
     margin-top: 40px;
-    display: none;
+    /* display: none; */
     float: none;
     width: 100%;
   }
@@ -140,7 +140,7 @@
     display: inline-block;
   }
   /* journal */
-  #journal .journal-block .journal-info {
+  #certification .accordion-block .accordion-info {
     margin-bottom: 30px;
   }
   /* Contact */
@@ -167,7 +167,7 @@
   }
   .nav-menu {
     margin-top: 40px;
-    display: none;
+    /* display: none; */
     float: none;
     width: 100%;
   }
@@ -211,7 +211,7 @@
     display: inline-block;
   }
   /* journal */
-  #journal .journal-block .journal-info {
+  #certification .accordion-block .accordion-info {
     margin-bottom: 30px;
   }
   /* Contact */

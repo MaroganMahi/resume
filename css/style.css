@@ -463,12 +463,13 @@ nav ul li a {
   position: relative;
 }
 
-.accordian .img {
+.accordion .img {
   max-width: 100%;
 }
 
 .card {
-  margin-left: 200px;
+  margin-left: 100px;
+  margin-bottom: 20px;
   
 }
 .btn {
