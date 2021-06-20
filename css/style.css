@@ -209,6 +209,15 @@ nav ul li a {
   text-transform: capitalize;
 }
 
+.responsive {
+  /* display: none; */
+  font-size: 23px;
+}
+
+.active {
+  color: #afafaf;
+}
+
 /*----------------------------------------------------------------------------------*/
 /*  Header
 /*-----------------------------------------------------------------------------------*/
@@ -461,20 +470,23 @@ nav ul li a {
   background: #f7f7f7;
   padding-bottom: 60px;
   position: relative;
+  display: inline-block;
 }
 
+#certification .text-center{
+  max-width: 100%;
+}
 .accordion .img {
   max-width: 100%;
+  position: relative;
 }
 
 .card {
-  margin-left: 100px;
   margin-bottom: 20px;
-  
+  max-width: 100%;
+  margin-left: 100px;
 }
-.btn {
-  margin-left: 40px;
-}
+
 /*-----------------------------------------------------------------------------------*/
 /*  Contact
 /*-----------------------------------------------------------------------------------*/
@@ -504,7 +516,7 @@ nav ul li a {
   border: 1px solid #18d26e;
   display: none;
   text-align: center;
-  padding: 15px;
+  padding: 0px;
   font-weight: 600;
   margin: 15px;
 }
